@@ -8,7 +8,7 @@ author:
   name: John Doe
   url: http://example.com/
 
-url: http://localhost:4000/ # Absolute path
+url: https://shawonbd.github.io/vds/ # Absolute path
 video-baseurl: http://localhost:4000/video/ # Absolute path where video folder resides (can be a folder on a CDN)
 
 # ----------------------- #
