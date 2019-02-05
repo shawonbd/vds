@@ -1,6 +1,6 @@
 ---
 title: My First Video
-video-id: my-first-video
+video-id: https://www.youtube.com/watch?v=iPhEA6IFCRQ
 categories: [first custom playlist, uploads]
 date: 2016-02-01
 ---
