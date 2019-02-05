@@ -1,5 +1,5 @@
 ---
-title: My Eighth Video
+title: hero
 video-id: https://www.youtube.com/watch?v=iPhEA6IFCRQ
 categories: [uploads]
 date: 2016-02-08
