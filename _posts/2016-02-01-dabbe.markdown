@@ -1,6 +1,6 @@
 ---
 title: Dabbe6
-video-id: https://www.youtube.com/watch?v=iPhEA6IFCRQ
+video-id: iPhEA6IFCRQ
 categories: [first custom playlist, uploads,watch]
 date: 2016-02-01
 layout: xo
