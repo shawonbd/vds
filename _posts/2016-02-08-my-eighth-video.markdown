@@ -1,6 +1,6 @@
 ---
 title: hero
-video-id: https://www.youtube.com/watch?v=iPhEA6IFCRQ
+video-id: iPhEA6IFCRQ
 categories: [uploads]
 date: 2016-02-08
 layout: xo
