@@ -1,8 +1,9 @@
 ---
 title: My Eighth Video
-video-id: my-eighth-video
+video-id: https://www.youtube.com/watch?v=iPhEA6IFCRQ
 categories: [uploads]
 date: 2016-02-08
+layout: xo
 ---
 
 This is the CUSTOM DESCRIPTION for Video 8.
